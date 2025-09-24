@@ -3,7 +3,7 @@
 
 **Autor:** Andru Stiven Rodríguez Bustos  
 **Fecha de publicación:** 24 de septiembre de 2024  
-**Repositorio:** https://github.com/Andru Stiven Rodríguez Bustos/neuro-synch-fractal  
+**Repositorio:** https://github.com/Andru-Stiven-Rodríguez-Bustos/neuro-synch-fractal  
 
 ---
 
